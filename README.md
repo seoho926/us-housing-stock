@@ -1,32 +1,34 @@
 
 # American Housing Stock
-Classifying Adequate Units Based On Neighborhood Characteristics
+Classifying Adequacy of Units Based on Neighborhood Characteristics
 
 Contributors:
  - 
 * Seoho Hahm (@seoho926)
 * Nicole Bills (@NicoleJaneway)
 
-Goals:
+Goal:
  - 
- The goal of this analysis is to gain a better understanding of the relationship between Planned Unit Developments (PUDs), demographic factors, and eviction rates in Washington, D.C.
+The goal of this analysis is to assist U.S. Department of Housing and Urban Development (HUD) to better understand the adequacy of housing units based on neighborhood characteristics.
  
 Methods Used:
+ -
 * Supervised Machine Learning:
   * Logistic Regression
   * Random Forest Classification
   * Support Vector Classification
 
 Technologies:
+ -
   * Python
   * Pandas
   * Seaborn
-  * Matplotlib.pyplot
-  * Scipy.stats
+  * Matplotlib
+  * Scipy
   * Numpy
   * Sklearn
-  * Statsmodels.api
-  * imblearn.over_sampling
+  * Statsmodels
+  * SMOTE
   * Yellowbrick
  
 Summary and Links to Files:
