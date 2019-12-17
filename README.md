@@ -1,16 +1,33 @@
 
-U.S. Housing Stock
- - 
+# American Housing Stock
+Classifying Adequate Units Based On Neighborhood Characteristics
 
 Contributors:
  - 
-Seoho Hahm (@seoho926)
-Nicole Bills (@NicoleJaneway)
+* Seoho Hahm (@seoho926)
+* Nicole Bills (@NicoleJaneway)
 
 Goals:
  - 
  The goal of this analysis is to gain a better understanding of the relationship between Planned Unit Developments (PUDs), demographic factors, and eviction rates in Washington, D.C.
  
+Methods Used:
+* Supervised Machine Learning:
+  * Logistic Regression
+  * Random Forest Classification
+  * Support Vector Classification
+
+Technologies:
+  * Python
+  * Pandas
+  * Seaborn
+  * Matplotlib.pyplot
+  * Scipy.stats
+  * Numpy
+  * Sklearn
+  * Statsmodels.api
+  * imblearn.over_sampling
+  * Yellowbrick
  
 Summary and Links to Files:
  - 
