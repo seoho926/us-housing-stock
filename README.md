@@ -22,8 +22,8 @@ Data Source:
  -
   1. To set up the data for this project, download the AHS 2017 National survey data <a href='http://www2.census.gov/programs-surveys/ahs/2017/AHS%202017%20National%20PUF%20v3.0%20CSV.zip?#'>here</a>
   2. Move the 'household.csv' into the data folder within this repo
-  3. From the home directory of this repo, import 'get_data.py' and run create_dataset function to limit survey data to features related to the neighborhood plus the target feature (ADEQUACY)
-  4. Use export_dataset function from the home directory of this repo to export cleaned dataset to data folder
+  3. From the home directory of this repo, import get_data.py and run the create_dataset() function to limit survey data to features related to the neighborhood, as well as the target feature (ADEQUACY)
+  4. Use the export_dataset() function from the home directory to export cleaned dataset to data folder
  
 Summary and Links to Files:
  - 
