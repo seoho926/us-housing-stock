@@ -18,18 +18,11 @@ Methods Used:
   * Random Forest Classification
   * Support Vector Classification
 
-Technologies:
+Data Source:
  -
-  * Python
-  * Pandas
-  * Seaborn
-  * Matplotlib
-  * Scipy
-  * Numpy
-  * Sklearn
-  * Statsmodels
-  * SMOTE
-  * Yellowbrick
+  1. To set up the data for this project, download the file <a href='http://www2.census.gov/programs-surveys/ahs/2017/AHS%202017%20National%20PUF%20v3.0%20CSV.zip?#'>here</a>
+  2. Move the household.csv into the data file within this repo
+  3. Import get_data.py and run create_dataset function
  
 Summary and Links to Files:
  - 
