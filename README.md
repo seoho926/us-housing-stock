@@ -18,23 +18,17 @@ Methods Used:
   * Random Forest Classification
   * Support Vector Classification
 
-Technologies:
+Data Source:
  -
-  * Python
-  * Pandas
-  * Seaborn
-  * Matplotlib
-  * Scipy
-  * Numpy
-  * Sklearn
-  * Statsmodels
-  * SMOTE
-  * Yellowbrick
+  1. To set up the data for this project, download the AHS 2017 National survey data <a href='http://www2.census.gov/programs-surveys/ahs/2017/AHS%202017%20National%20PUF%20v3.0%20CSV.zip?#'>here</a>
+  2. Move the 'household.csv' into the data folder within this repo
+  3. From the home directory of this repo, import get_data.py and run the create_dataset() function to limit survey data to features related to the neighborhood, as well as the target feature (ADEQUACY)
+  4. Use the export_dataset() function from the home directory to export cleaned dataset to data folder
  
 Summary and Links to Files:
  - 
- - <a href='https://github.com/NicoleJaneway/dc_eviction_regression/blob/master/slide_deck.pdf'>Slide Deck (pdf)</a>
+ - <a href='https://github.com/seoho926/us-housing-stock/blob/master/US_housing_stock.pdf'>Slide Deck (pdf)</a>
  - <a href='http://www2.census.gov/programs-surveys/ahs/2017/AHS%202017%20National%20PUF%20v3.0%20CSV.zip?#'>Data Source</a>
  - <a href = 'https://github.com/seoho926/us-housing-stock/tree/master/notebooks'>Notebooks</a>
-    - <a href = 'https://github.com/NicoleJaneway/dc_eviction_regression/blob/master/technical_notebook.ipynb'>Technical Notebook</a>
- - <a href='https://github.com/NicoleJaneway/dc_eviction_regression/tree/master/python_files'>Python files</a>
+    - <a href = 'https://github.com/seoho926/us-housing-stock/blob/master/technical_notebook.ipynb'>Technical Notebook</a>
+ - <a href='https://github.com/seoho926/us-housing-stock/blob/master/py_files/classification.py'>Python files</a>
