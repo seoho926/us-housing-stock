@@ -28,7 +28,7 @@ Data Source:
 Summary and Links to Files:
  - 
  - <a href='https://github.com/seoho926/us-housing-stock/blob/master/US_housing_stock.pdf'>Slide Deck (pdf)</a>
- - <a href='http://www2.census.gov/programs-surveys/ahs/2017/AHS%202017%20National%20PUF%20v3.0%20CSV.zip?#'>Data Source</a>
+ - <a href='https://www.census.gov/programs-surveys/ahs/data/2017/ahs-2017-public-use-file--puf-/ahs-2017-national-public-use-file--puf-.html'>Data Source</a>
  - <a href = 'https://github.com/seoho926/us-housing-stock/tree/master/notebooks'>Notebooks</a>
     - <a href = 'https://github.com/seoho926/us-housing-stock/blob/master/technical_notebook.ipynb'>Technical Notebook</a>
  - <a href='https://github.com/seoho926/us-housing-stock/tree/master/py_files'>Python files</a>
